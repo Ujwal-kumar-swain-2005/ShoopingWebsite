@@ -1,6 +1,4 @@
 package com.example.billing.Controller;
-
-import com.example.billing.Service.User.AppUserDetailsService;
 import com.example.billing.Service.User.UserServiceImpl;
 
 import com.example.billing.io.UserRequest;
